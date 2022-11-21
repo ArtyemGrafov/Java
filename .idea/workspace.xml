@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b8f2d6-4991-41b4-8dfc-365d83e5bdea" name="Changes" comment="Task2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89b8f2d6-4991-41b4-8dfc-365d83e5bdea" name="Changes" comment="Task3">
+      <change beforePath="$PROJECT_DIR$/src/seminar1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669058877927</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task3">
+      <created>1669063054675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669063054675</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +102,7 @@
     <MESSAGE value="Test1" />
     <MESSAGE value="Task1" />
     <MESSAGE value="Task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task2" />
+    <MESSAGE value="Task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task3" />
   </component>
 </project>

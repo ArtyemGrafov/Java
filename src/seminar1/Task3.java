@@ -7,24 +7,23 @@ import java.util.Scanner;
 
 public class Task3 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        try {
+        try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Enter operand(+-/*) : ");
             String operator = scanner.nextLine();
             System.out.print("Enter a : ");
             int a = scanner.nextInt();
             System.out.print("Enter b : ");
             int b = scanner.nextInt();
-            
-            if (operator.equals("+")) System.out.println(a + b);
-            else if (operator.equals("-")) System.out.println(a - b);
-            else if (operator.equals("*")) System.out.println(a * b);
-            else if (operator.equals("/")) System.out.println((float)a / b);
-            else System.out.println("Unknown operation");
+
+            switch (operator) {
+                case "+" -> System.out.println(a + b);
+                case "-" -> System.out.println(a - b);
+                case "*" -> System.out.println(a * b);
+                case "/" -> System.out.println((float) a / b);
+                default -> System.out.println("Unknown operation");
+            }
         } catch (InputMismatchException exception) {
-            System.out.println(exception);
-        } finally {
-            scanner.close();
+            exception.printStackTrace();
         }
 
     }
