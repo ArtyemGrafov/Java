@@ -59,11 +59,11 @@ public class Task4 {
         }
 
         int a = Integer.parseInt(Arrays.toString(arrInt[0])
-                .replaceAll("\\[|\\]|,|\\s", ""));
+                .replaceAll("[\\[\\],\\s]", ""));
         int b = Integer.parseInt(Arrays.toString(arrInt[1])
-                .replaceAll("\\[|\\]|,|\\s", ""));
+                .replaceAll("[\\[\\],\\s]", ""));
         int c = Integer.parseInt(Arrays.toString(arrInt[2])
-                .replaceAll("\\[|\\]|,|\\s", ""));
+                .replaceAll("[\\[\\],\\s]", ""));
 
         System.out.println(str);
         if (a + b == c) System.out.printf("%d+%d=%d", a, b, c);

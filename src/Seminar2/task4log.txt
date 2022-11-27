@@ -1,0 +1,8 @@
+Nov 27, 2022 11:58:11 PM Seminar2.Task4 main
+INFO: Division dy zero
+Nov 27, 2022 11:58:37 PM Seminar2.Task4 main
+INFO: 5/9=0
+Nov 27, 2022 11:59:32 PM Seminar2.Task4 main
+INFO: 5/9=0.5555556
+Nov 28, 2022 12:00:07 AM Seminar2.Task4 main
+INFO: error
