@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b8f2d6-4991-41b4-8dfc-365d83e5bdea" name="Changes" comment="Task4">
+    <list default="true" id="89b8f2d6-4991-41b4-8dfc-365d83e5bdea" name="Changes" comment="Seminar2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669149182262</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Seminar2">
+      <created>1669582922384</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669582922384</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,15 +154,12 @@
     <MESSAGE value="Task3" />
     <MESSAGE value="Task3mod" />
     <MESSAGE value="Task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task4" />
+    <MESSAGE value="Seminar2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <breakpoint type="java-exception">
-          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.io.UncheckedIOException" package="java.io" />
           <option name="timeStamp" value="2" />
@@ -168,6 +171,10 @@
         <breakpoint type="java-exception">
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="17" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="21" />
         </breakpoint>
       </breakpoints>
       <breakpoints-dialog>
