@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b8f2d6-4991-41b4-8dfc-365d83e5bdea" name="Changes" comment="Seminar2">
+    <list default="true" id="89b8f2d6-4991-41b4-8dfc-365d83e5bdea" name="Changes" comment="Seminar3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminar3/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar3/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669582922384</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Seminar3">
+      <created>1669837946399</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669837946399</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +163,8 @@
     <MESSAGE value="Task3mod" />
     <MESSAGE value="Task4" />
     <MESSAGE value="Seminar2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar2" />
+    <MESSAGE value="Seminar3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
